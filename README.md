@@ -21,10 +21,10 @@ CSV → Staging → Transformation → Data Warehouse → Power BI
 6. Power BI dashboards
 
 ## 📈 Power BI Dashboard Preview
-![Executive Overview](images/executive_overview.png)
-![Regional Performance](images/regional_performance.png)
-![Product Insights](images/product_insights.png)
-![Logistics Performance](images/logistics_performance.png)
+![Executive Overview](Images/executive_overview.png)
+![Regional Performance](Images/regional_performance.png)
+![Product Insights](Images/product_insights.png)
+![Logistics Performance](Images/logistics_performance.png)
 
 ## 🧪 ETL Testing
 - Row count reconciliation
